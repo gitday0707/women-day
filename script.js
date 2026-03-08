@@ -1,6 +1,6 @@
 const introMessages = [
-"Món quà nho nhỏ cho ngày 8/3 🥰",
-"Chuẩn bị phát bài hát...",
+"Món quà nho nhỏ cho ngày 8/3 ",
+"Chuẩn bị phát bài hát",
 "Hy vọng em sẽ nghe bài nhạc này",
 "Nghe hết vẫn còn điều khác nữa chờ đợi phía sau",
 "Enjoy the music "
