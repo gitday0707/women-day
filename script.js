@@ -40,9 +40,12 @@ body:text
 
 const data = await res.json()
 
+
 const audio = new Audio(data.async)
 
-audio.play()
+audio.oncanplaythrough = () => {
+  audio.play()
+}
 
 }
 
@@ -162,7 +165,9 @@ setTimeout(runIntro,800)
 
 }
 
-runIntro()
+document.body.addEventListener("click", () => {
+  runIntro()
+}, { once: true })
 
 /* ---------- PLAY BUTTON ---------- */
 
@@ -304,7 +309,6 @@ let line=document.createElement("div")
 endingBox.appendChild(line)
 
 hackerLine(endingMessages[i],line,()=>{
-    speak()
 
 i++
 
