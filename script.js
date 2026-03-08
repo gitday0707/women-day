@@ -27,6 +27,7 @@ function removeEmoji(text){
 }
 
 async function speak(text){
+  
 text = removeEmoji(text)
 const res = await fetch("https://api.fpt.ai/hmi/tts/v5",{
 method:"POST",
