@@ -165,9 +165,7 @@ setTimeout(runIntro,800)
 
 }
 
-document.body.addEventListener("click", () => {
-  runIntro()
-}, { once: true })
+runIntro()
 
 /* ---------- PLAY BUTTON ---------- */
 
