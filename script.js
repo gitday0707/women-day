@@ -1,22 +1,22 @@
 const introMessages = [
-"Món quà nho nhỏ cho ngày 8/3 ",
-"Chuẩn bị phát bài hát",
+"Món quà nho nhỏ cho ngày 8/3 🥰",
+"Chuẩn bị phát bài hát....",
 "Hy vọng em sẽ nghe bài nhạc này",
 "Nghe hết vẫn còn điều khác nữa chờ đợi phía sau",
 "Enjoy the music "
 ]
 
 const endingMessages = [
-"Cảm ơn em đã nghe hết bài hát",
+"Cảm ơn em đã nghe hết bài hát 💗💗",
 "Mặc dù cũng sắp hết ngày rồi",
 "Nhưng mà đây là món quà nho nhỏ anh làm lúc trông lớp ",
 "Dạo này chúng mình cũng có nhiều cãi vã",
-"nhưng anh mong chúng mình sẽ bao dung tha thứ những điều nhỏ nhặt cho nhau",
+"nhưng anh mong chúng mình sẽ bao dung tha thứ những điều nhỏ nhặt cho nhau ❤️‍🩹",
 "Chúc mừng tháng thứ 8 yêu nhau",
 "Mong rằng chúng mình cùng nhau cố gắng để có thể đón 8 năm hay 80 năm cùng nhau",
-"Chúc em một ngày 8/3 vui vẻ và hạnh phúc",
-"Have a wonderful day ",
-"Yêu em "
+"Chúc em một ngày 8/3 vui vẻ và hạnh phúc💞",
+"Have a wonderful day 💕",
+"Yêu em 😍😍"
 ]
 
 const letters="ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*"
